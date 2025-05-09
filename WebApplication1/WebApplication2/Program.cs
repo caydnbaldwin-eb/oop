@@ -25,7 +25,6 @@ class Comparison
 {
     public UserIdentity user1;
     public UserIdentity user2;
-    public int difference;
 
     public Comparison(UserIdentity u1, UserIdentity u2)
     {

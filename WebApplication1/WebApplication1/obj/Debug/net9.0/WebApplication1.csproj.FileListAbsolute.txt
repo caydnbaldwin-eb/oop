@@ -26,3 +26,4 @@ C:\Users\cb12663\OneDrive - Eide Bailly LLP\Desktop\projects\oop\WebApplication1
 C:\Users\cb12663\OneDrive - Eide Bailly LLP\Desktop\projects\oop\WebApplication1\WebApplication1\obj\Debug\net9.0\WebApplication1.pdb
 C:\Users\cb12663\OneDrive - Eide Bailly LLP\Desktop\projects\oop\WebApplication1\WebApplication1\obj\Debug\net9.0\WebApplication1.genruntimeconfig.cache
 C:\Users\cb12663\OneDrive - Eide Bailly LLP\Desktop\projects\oop\WebApplication1\WebApplication1\obj\Debug\net9.0\ref\WebApplication1.dll
+C:\Users\cb12663\OneDrive - Eide Bailly LLP\Desktop\projects\oop\WebApplication1\WebApplication1\obj\Debug\net9.0\WebApplication1.sourcelink.json

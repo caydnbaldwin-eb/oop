@@ -10,6 +10,7 @@ class SchoolCalendar
         schoolDay = sd;
         minAge = age;
     }
+    
     public int GetSchoolDate(int birthdate)
     {
         int schoolDate = (birthdate / 10000 + minAge) * 10000 + schoolMonth * 100 + schoolDay;

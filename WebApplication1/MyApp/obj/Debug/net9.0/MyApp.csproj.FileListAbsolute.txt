@@ -1,0 +1,15 @@
+C:\Users\cb12663\OneDrive - Eide Bailly LLP\Desktop\projects\oop\WebApplication1\MyApp\bin\Debug\net9.0\MyApp.exe
+C:\Users\cb12663\OneDrive - Eide Bailly LLP\Desktop\projects\oop\WebApplication1\MyApp\bin\Debug\net9.0\MyApp.deps.json
+C:\Users\cb12663\OneDrive - Eide Bailly LLP\Desktop\projects\oop\WebApplication1\MyApp\bin\Debug\net9.0\MyApp.runtimeconfig.json
+C:\Users\cb12663\OneDrive - Eide Bailly LLP\Desktop\projects\oop\WebApplication1\MyApp\bin\Debug\net9.0\MyApp.dll
+C:\Users\cb12663\OneDrive - Eide Bailly LLP\Desktop\projects\oop\WebApplication1\MyApp\bin\Debug\net9.0\MyApp.pdb
+C:\Users\cb12663\OneDrive - Eide Bailly LLP\Desktop\projects\oop\WebApplication1\MyApp\obj\Debug\net9.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cb12663\OneDrive - Eide Bailly LLP\Desktop\projects\oop\WebApplication1\MyApp\obj\Debug\net9.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\cb12663\OneDrive - Eide Bailly LLP\Desktop\projects\oop\WebApplication1\MyApp\obj\Debug\net9.0\MyApp.AssemblyInfo.cs
+C:\Users\cb12663\OneDrive - Eide Bailly LLP\Desktop\projects\oop\WebApplication1\MyApp\obj\Debug\net9.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\cb12663\OneDrive - Eide Bailly LLP\Desktop\projects\oop\WebApplication1\MyApp\obj\Debug\net9.0\MyApp.sourcelink.json
+C:\Users\cb12663\OneDrive - Eide Bailly LLP\Desktop\projects\oop\WebApplication1\MyApp\obj\Debug\net9.0\MyApp.dll
+C:\Users\cb12663\OneDrive - Eide Bailly LLP\Desktop\projects\oop\WebApplication1\MyApp\obj\Debug\net9.0\refint\MyApp.dll
+C:\Users\cb12663\OneDrive - Eide Bailly LLP\Desktop\projects\oop\WebApplication1\MyApp\obj\Debug\net9.0\MyApp.pdb
+C:\Users\cb12663\OneDrive - Eide Bailly LLP\Desktop\projects\oop\WebApplication1\MyApp\obj\Debug\net9.0\MyApp.genruntimeconfig.cache
+C:\Users\cb12663\OneDrive - Eide Bailly LLP\Desktop\projects\oop\WebApplication1\MyApp\obj\Debug\net9.0\ref\MyApp.dll
